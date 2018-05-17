@@ -19,6 +19,7 @@ import com.coolweather.app.util.Utility;
 import com.example.coolweather.R;
 
 public class WeatherActivity extends Activity implements OnClickListener {
+	
 	private LinearLayout weatherInfoLayout;
 	/**
 	 * 用于显示城市名
